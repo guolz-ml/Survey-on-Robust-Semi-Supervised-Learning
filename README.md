@@ -1,7 +1,6 @@
 ## Distribution Robust SSL
 
 - [Distributionally Robust Semi-Supervised Learning for People-Centric Sensing](https://arxiv.org/pdf/1811.05299.pdf) (AAAI 2019) -  This paper considers the distribution discrepancy between the labeled data and the unlabeled data, and align the feature distributions when the training data are distributed differently.
-- [Robustness to Adversarial Perturbations in Learning from Incomplete Data](https://proceedings.neurips.cc/paper/2019/file/60ad83801910ec976590f69f638e0d6d-Paper.pdf) (NeurIPS 2019) - This paper unifies Semi-Supervised Learning and Distributionally Robust Learning, and develops a generalization theory for the framework.
 
 ## Noise Robust SSL
 
@@ -11,3 +10,4 @@
 
 ## Adversarial Robust SSL
 
+- [Robustness to Adversarial Perturbations in Learning from Incomplete Data](https://proceedings.neurips.cc/paper/2019/file/60ad83801910ec976590f69f638e0d6d-Paper.pdf) (NeurIPS 2019) - This paper unifies Semi-Supervised Learning and Distributionally Robust Learning, and develops a generalization theory for the framework.
