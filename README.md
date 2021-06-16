@@ -5,7 +5,7 @@
 ## Noise Robust SSL
 
 - [Robust Semi-supervised Learning through Label Aggregation](http://iemppu.github.io/yan.pdf) (AAAI 2016) - This paper considers the robustness of SSL algorithms when there exists label noise. The main idea is to adopt ensemble learning to aggregate multiple pseudo-labels.
-- [Learning with Inadequate and Incorrect Supervision](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8215573) (IDCM 2017)
+- [Learning with Inadequate and Incorrect Supervision](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8215573) (ICDM 2017)
 - [Learning from Incomplete and Inaccurate Supervision](http://129.211.169.156/publication/kdd19pnu.pdf) (KDD 2019)
 
 ## Adversarial Robust SSL
