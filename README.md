@@ -11,3 +11,7 @@
 ## Adversarial Robust SSL
 
 - [Robustness to Adversarial Perturbations in Learning from Incomplete Data](https://proceedings.neurips.cc/paper/2019/file/60ad83801910ec976590f69f638e0d6d-Paper.pdf) (NeurIPS 2019) - This paper unifies Semi-Supervised Learning and Distributionally Robust Learning, and develops a generalization theory for the framework.
+
+## Safe SSL
+
+- [Scalable Semi-Supervised Aggregation of Classifiers](https://arxiv.org/pdf/1506.05790.pdf) (NeurIPS 2015) - Authors: Akshay Balsubramani, Yoav Freund. - This paper presents an algorithm that learns to aggregate the predictions of an ensemble of binary classifiers. It has no assumptions about the structure or origin of the predictions or labels and the accuracy is guaranteed to be at least that of the best classifier in the ensemble.
