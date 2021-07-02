@@ -14,5 +14,5 @@
 
 ## Safe SSL
 
->- [Scalable Semi-Supervised Aggregation of Classifiers](https://arxiv.org/pdf/1506.05790.pdf) (NeurIPS 2015) - Authors: Akshay Balsubramani, Yoav Freund
->> This paper presents an algorithm that learns to aggregate the predictions of an ensemble of binary classifiers. It has no assumptions about the structure or origin of the predictions or labels and the accuracy is guaranteed to be at least that of the best classifier in the ensemble.
+- [Scalable Semi-Supervised Aggregation of Classifiers](https://arxiv.org/pdf/1506.05790.pdf) (NeurIPS 2015) - Authors: Akshay Balsubramani, Yoav Freund
+> This paper presents an algorithm that learns to aggregate the predictions of an ensemble of binary classifiers. It has no assumptions about the structure or origin of the predictions or labels and the accuracy is guaranteed to be at least that of the best classifier in the ensemble.
