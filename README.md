@@ -19,3 +19,5 @@
 
 - [Scalable Semi-Supervised Aggregation of Classifiers](https://arxiv.org/pdf/1506.05790.pdf) (NeurIPS 2015) - Authors: Akshay Balsubramani, Yoav Freund
 > This paper presents an algorithm that learns to aggregate the predictions of an ensemble of binary classifiers. It has no assumptions about the structure or origin of the predictions or labels and the accuracy is guaranteed to be at least that of the best classifier in the ensemble.
+- [Contrastive Pessimistic Likelihood Estimation for Semi-Supervised Classification](https://arxiv.org/pdf/1503.00269.pdf) (TPAMI 2016) - Authors: Marco Loog
+> This paper proposes a general way to perform semisupervised parameter estimation for likelihood-based classifiers for which, on the fulltraining set, the estimates are never worse than the supervised solution in terms of the log-likelihood.
