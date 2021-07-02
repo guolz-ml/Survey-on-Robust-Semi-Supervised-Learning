@@ -16,7 +16,7 @@
 > This paper unifies Semi-Supervised Learning and Distributionally Robust Learning, and develops a generalization theory for the framework.
 
 - [Unlabeled Data Improves Adversarial Robustness](https://papers.nips.cc/paper/2019/file/32e0bd1497aa43e02a42f47d9d6515ad-Paper.pdf) (NeurIPS 2019) - Authors: Yair Carmon, Aditi Raghunathan, Ludwig Schmidt, Percy Liang, John C. Duchi
-> This paper hows a sample complexity gap between standard and robust classification and proves that unlabeled data bridges this gap: a simple semisupervised learning procedure (self-training) achieves high robust accuracy using the same number of labels required for achieving high standard accuracy. 
+> This paper shows a sample complexity gap between standard and robust classification and proves that unlabeled data bridges this gap: a simple semisupervised learning procedure (self-training) achieves high robust accuracy using the same number of labels required for achieving high standard accuracy. 
 
 ## Safe SSL
 
