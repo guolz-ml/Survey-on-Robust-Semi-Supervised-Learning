@@ -15,6 +15,9 @@
 - [Robustness to Adversarial Perturbations in Learning from Incomplete Data](https://proceedings.neurips.cc/paper/2019/file/60ad83801910ec976590f69f638e0d6d-Paper.pdf) (NeurIPS 2019) - Authors: Amir Najaf, Shin-ichi Maeda, Masanori Koyama, Takeru Miyato
 > This paper unifies Semi-Supervised Learning and Distributionally Robust Learning, and develops a generalization theory for the framework.
 
+- [Unlabeled Data Improves Adversarial Robustness](https://papers.nips.cc/paper/2019/file/32e0bd1497aa43e02a42f47d9d6515ad-Paper.pdf) (NeurIPS 2019) - Authors: Yair Carmon, Aditi Raghunathan, Ludwig Schmidt, Percy Liang, John C. Duchi
+> This paper hows a sample complexity gap between standard and robust classification and proves that unlabeled data bridges this gap: a simple semisupervised learning procedure (self-training) achieves high robust accuracy using the same number of labels required for achieving high standard accuracy. 
+
 ## Safe SSL
 
 - [Unlabeled data: Now it helps, now it doesn’t](https://papers.nips.cc/paper/2008/file/07871915a8107172b3b5dc15a6574ad3-Paper.pdf) (NeurIPS 2008) - Authors: Aarti Singh, Robert D. Nowak, Xiaojin Zhu
