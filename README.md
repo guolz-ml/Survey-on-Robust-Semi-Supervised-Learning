@@ -17,6 +17,8 @@
 
 ## Safe SSL
 
+- [Unlabeled data: Now it helps, now it doesn’t](https://papers.nips.cc/paper/2008/file/07871915a8107172b3b5dc15a6574ad3-Paper.pdf) (NeurIPS 2008) - Authors: Aarti Singh, Robert D. Nowak, Xiaojin Zhu
+> This paper develops a finite sample analysis that characterizes the value of unlabeled data and quantifies the performance improvement of SSL compared to supervised learning.
 - [Scalable Semi-Supervised Aggregation of Classifiers](https://arxiv.org/pdf/1506.05790.pdf) (NeurIPS 2015) - Authors: Akshay Balsubramani, Yoav Freund
 > This paper presents an algorithm that learns to aggregate the predictions of an ensemble of binary classifiers. It has no assumptions about the structure or origin of the predictions or labels and the accuracy is guaranteed to be at least that of the best classifier in the ensemble.
 - [Contrastive Pessimistic Likelihood Estimation for Semi-Supervised Classification](https://arxiv.org/pdf/1503.00269.pdf) (TPAMI 2016) - Authors: Marco Loog
