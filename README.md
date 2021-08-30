@@ -9,6 +9,10 @@
 > This paper considers the robustness of SSL algorithms when there exists label noise. The main idea is to adopt ensemble learning to aggregate multiple pseudo-labels.
 - [Learning with Inadequate and Incorrect Supervision](https://arxiv.org/pdf/1902.07429.pdf) (ICDM 2017) - Authors: Chen Gong, Hengmin Zhang, Jian Yang, Dacheng Tao
 - [Learning from Incomplete and Inaccurate Supervision](http://129.211.169.156/publication/kdd19pnu.pdf) (KDD 2019) - Authors: Zhen-Yu Zhang, Peng Zhao, Yuan Jiang and Zhi-Hua Zhou
+- [Noise-robust semi-supervised learning via fast sparse coding](https://www.sciencedirect.com/science/article/pii/S0031320314003331) (Pattern Recognition 2015) - Authors: Zhiwu Lu, Liwei Wang
+> This paper presents a noise-robust graph-based semi-supervised learning algorithm by using sparse encoding to deal with the problem of semi-supervised learning with noisy initial labels.
+- [Unified Robust Semi-Supervised Variational Autoencoder](http://proceedings.mlr.press/v139/chen21a/chen21a.pdf) (ICML 2021) - Authors: Xu Chen
+> This paper propose a noise-robust semi-supervised deep generative model by jointly tackling noisy labels and outliers simultaneously in a unified robust semi-supervised variational autoencoder
 
 ## Adversarial Robust SSL
 
