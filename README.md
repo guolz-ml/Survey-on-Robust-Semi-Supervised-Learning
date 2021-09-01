@@ -1,9 +1,11 @@
-## Distribution Robust SSL
+## Distribution Corruptation Robust SSL
 
 - [Distributionally Robust Semi-Supervised Learning for People-Centric Sensing](https://arxiv.org/pdf/1811.05299.pdf) (AAAI 2019) - Authors: Kaixuan Chen, Lina Yao, Dalin Zhang, Xiaojun Chang, Guodong Long, Sen Wang
 > This paper considers the distribution discrepancy between the labeled data and the unlabeled data, and align the feature distributions when the training data are distributed differently.
+- [Semi-Supervised Learning by Augmented Distribution Alignment](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Semi-Supervised_Learning_by_Augmented_Distribution_Alignment_ICCV_2019_paper.pdf) (ICCV 2019) - Authors: Qin Wang, Wen Li, Luc Van Gool
+> This paper proposes a method called Augmented Distribution Alignment to align the empirical distributions of labeled and unlabeled data to alleviate the sampling bias.
 
-## Noise Robust SSL
+## Label Corruptation Robust SSL
 
 - [Robust Semi-supervised Learning through Label Aggregation](http://iemppu.github.io/yan.pdf) (AAAI 2016) - Authors: Yan Yan, Zhongwen Xu, Ivor W. Tsang, Guodong Long, Yi Yang
 > This paper considers the robustness of SSL algorithms when there exists label noise. The main idea is to adopt ensemble learning to aggregate multiple pseudo-labels.
@@ -14,7 +16,7 @@
 - [Unified Robust Semi-Supervised Variational Autoencoder](http://proceedings.mlr.press/v139/chen21a/chen21a.pdf) (ICML 2021) - Authors: Xu Chen
 > This paper propose a noise-robust semi-supervised deep generative model by jointly tackling noisy labels and outliers simultaneously in a unified robust semi-supervised variational autoencoder
 
-## Adversarial Robust SSL
+## Feature Corruptation Robust SSL
 
 - [Robustness to Adversarial Perturbations in Learning from Incomplete Data](https://proceedings.neurips.cc/paper/2019/file/60ad83801910ec976590f69f638e0d6d-Paper.pdf) (NeurIPS 2019) - Authors: Amir Najaf, Shin-ichi Maeda, Masanori Koyama, Takeru Miyato
 > This paper unifies Semi-Supervised Learning and Distributionally Robust Learning, and develops a generalization theory for the framework.
