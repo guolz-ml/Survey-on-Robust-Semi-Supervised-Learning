@@ -24,11 +24,38 @@
 - [Unlabeled Data Improves Adversarial Robustness](https://papers.nips.cc/paper/2019/file/32e0bd1497aa43e02a42f47d9d6515ad-Paper.pdf) (NeurIPS 2019) - Authors: Yair Carmon, Aditi Raghunathan, Ludwig Schmidt, Percy Liang, John C. Duchi
 > This paper shows a sample complexity gap between standard and robust classification and proves that unlabeled data bridges this gap: a simple semisupervised learning procedure (self-training) achieves high robust accuracy using the same number of labels required for achieving high standard accuracy. 
 
-## Safe SSL
+-[Toward Adversarial Robustness via Semi-supervised Robust Training](https://arxiv.org/pdf/2003.06974.pdf) - Authors: Yiming Li, Baoyuan Wu, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shutao Xia
+> This paper proposes a robust training method that can be extended to semi-supervised mode to enhance the adversarial robustness.
+
+-[DeHiB: Deep Hidden Backdoor Attack on Semi-supervised Learning via Adversarial Perturbation](https://ojs.aaai.org/index.php/AAAI/article/view/17266/17073) (AAAI 2021) - Authors: Zhicong Yan, Gaolei Li, Yuan TIan, Jun Wu, Shenghong Li, Mingzhe Chen, H. Vincent Poor
+> This paper proposes a deep hidden backdoor (DeHiB) attack for SSL-based systems. In contrast to the conventional
+attacking methods, the DeHiB can feed malicious unlabeled training data to the semi-supervised learner so as to enable the SSL model to output premeditated results.
+
+-[Tangent-Normal Adversarial Regularization for Semi-supervised Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Tangent-Normal_Adversarial_Regularization_for_Semi-Supervised_Learning_CVPR_2019_paper.pdf) (CVPR 2019) - Authors: Bing Yu, Jingfeng Wu, Jinwen Ma, Zhanxing Zhu
+> This paper proposes a new regularization technique for semi-supervised learning than can improve the robustness of SSL to noisy features.
+
+-[Improving Adversarial Robustness via Unlabeled Out-of-Domain Data](http://proceedings.mlr.press/v130/deng21b/deng21b.pdf) (AISTATS 2021) - Authors: Zhun Deng, Linjun Zhang, Amirata Ghorbani, James Zou
+> This paper show how to leverage out-of-domain data to improve adversarial robustness when some structural information, such as sparsity, is shared between labeled and unlabeled domains.
+
+-[Adversarial Variational Embedding for Robust Semi-supervised Learning](https://dl.acm.org/doi/pdf/10.1145/3292500.3330966) (KDD 2019) - Authors: Xiang Zhang, Lina Yao, Feng Yuan
+> This paper proposes an Adversarial Variational Embedding (AVAE) framework for robust semi-supervised learning by leveraging both the advantage of GAN as a high quality generative model and VAE as a posterior distribution learner.
+
+-[Mixing Up Real Samples and Adversarial Samples for Semi-Supervised Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9207038) (IJCNN 2020) -  Authors: Yun Ma, Xudong Mao, Yangbin Chen, Qing Li
+> This paper propose a new regularization for semi-supervised learning that can improve the adversarial robustness of SSL algorithms.
+
+-[Poisoning the Unlabeled Dataset of Semi-Supervised Learning](https://arxiv.org/pdf/2105.01622.pdf) - Authors: Nicholas Carlini
+> This paper studies the ability for an adversary to poison semi-supervised learning algorithms by injecting unlabeled data.
+ 
+## Relation Corruptation Robust SSL
+
+- [Robust Semi-Supervised Learning on Multiple Networks with Noise](Robust Semi-Supervised Learning on Multiple Networks with Noise) (PAKDD 2019) - Authors: Junting Ye, Leman Akoglu
+>This paper studies the problem that graph-based semi-supervised learning with noisy and/or irrelevant relations in the graph structure.
 
 - [Unlabeled data: Now it helps, now it doesn’t](https://papers.nips.cc/paper/2008/file/07871915a8107172b3b5dc15a6574ad3-Paper.pdf) (NeurIPS 2008) - Authors: Aarti Singh, Robert D. Nowak, Xiaojin Zhu
 > This paper develops a finite sample analysis that characterizes the value of unlabeled data and quantifies the performance improvement of SSL compared to supervised learning.
+
 - [Scalable Semi-Supervised Aggregation of Classifiers](https://arxiv.org/pdf/1506.05790.pdf) (NeurIPS 2015) - Authors: Akshay Balsubramani, Yoav Freund
 > This paper presents an algorithm that learns to aggregate the predictions of an ensemble of binary classifiers. It has no assumptions about the structure or origin of the predictions or labels and the accuracy is guaranteed to be at least that of the best classifier in the ensemble.
+
 - [Contrastive Pessimistic Likelihood Estimation for Semi-Supervised Classification](https://arxiv.org/pdf/1503.00269.pdf) (TPAMI 2016) - Authors: Marco Loog
 > This paper proposes a general way to perform semisupervised parameter estimation for likelihood-based classifiers for which, on the fulltraining set, the estimates are never worse than the supervised solution in terms of the log-likelihood.
