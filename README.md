@@ -48,7 +48,7 @@ attacking methods, the DeHiB can feed malicious unlabeled training data to the s
  
 ## Relation Corruptation Robust SSL
 
-- [Robust Semi-Supervised Learning on Multiple Networks with Noise](Robust Semi-Supervised Learning on Multiple Networks with Noise) (PAKDD 2019) - Authors: Junting Ye, Leman Akoglu
+- [Robust Semi-Supervised Learning on Multiple Networks with Noise](https://www.andrew.cmu.edu/user/lakoglu/pubs/18-pakdd-imune.pdf) (PAKDD 2019) - Authors: Junting Ye, Leman Akoglu
 >This paper studies the problem that graph-based semi-supervised learning with noisy and/or irrelevant relations in the graph structure.
 
 - [Unlabeled data: Now it helps, now it doesn’t](https://papers.nips.cc/paper/2008/file/07871915a8107172b3b5dc15a6574ad3-Paper.pdf) (NeurIPS 2008) - Authors: Aarti Singh, Robert D. Nowak, Xiaojin Zhu
