@@ -5,6 +5,9 @@
 - [Semi-Supervised Learning by Augmented Distribution Alignment](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Semi-Supervised_Learning_by_Augmented_Distribution_Alignment_ICCV_2019_paper.pdf) (ICCV 2019) - Authors: Qin Wang, Wen Li, Luc Van Gool
 > This paper proposes a method called Augmented Distribution Alignment to align the empirical distributions of labeled and unlabeled data to alleviate the sampling bias.
 
+- [On semi-supervised linear regression in covariate shift problems. The Journal of Machine Learning](https://www.jmlr.org/papers/volume16/ryan15a/ryan15a.pdf) (JMLR 2015) - Authors: Kenneth Joseph Ryan, Mark Vere Culp
+> 
+
 ## Label Corruptation Robust SSL
 
 - [Robust Semi-supervised Learning through Label Aggregation](http://iemppu.github.io/yan.pdf) (AAAI 2016) - Authors: Yan Yan, Zhongwen Xu, Ivor W. Tsang, Guodong Long, Yi Yang
