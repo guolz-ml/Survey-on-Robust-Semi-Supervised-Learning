@@ -8,6 +8,11 @@
 - [On semi-supervised linear regression in covariate shift problems. The Journal of Machine Learning](https://www.jmlr.org/papers/volume16/ryan15a/ryan15a.pdf) (JMLR 2015) - Authors: Kenneth Joseph Ryan, Mark Vere Culp
 > 
 
+- [RECORD: Resource Constrained Semi-Supervised Learning
+under Distribution Shif](https://cs.nju.edu.cn/liyf/paper/kdd20-record.pdf) (KDD 2020) - Authors: Lan-Zhe Guo, Zhi Zhou, Yu-Feng Li.
+> This paper focuses on the problem that unlabeled data arrives in a data stream and the distribution changes over time. The paper proposed an influence function based example selection strategy that can maintain examples that are most helpful for current and future distribution.
+
+
 ## Label Corruptation Robust SSL
 
 - [Robust Semi-supervised Learning through Label Aggregation](http://iemppu.github.io/yan.pdf) (AAAI 2016) - Authors: Yan Yan, Zhongwen Xu, Ivor W. Tsang, Guodong Long, Yi Yang
