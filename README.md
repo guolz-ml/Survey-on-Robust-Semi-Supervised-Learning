@@ -1,4 +1,4 @@
-## Distribution Corruptation Robust SSL
+## Robust SSL to Feature Distribution MisMatch
 
 - [Distributionally Robust Semi-Supervised Learning for People-Centric Sensing](https://arxiv.org/pdf/1811.05299.pdf) (AAAI 2019) - Authors: Kaixuan Chen, Lina Yao, Dalin Zhang, Xiaojun Chang, Guodong Long, Sen Wang
 > This paper considers the distribution discrepancy between the labeled data and the unlabeled data, and align the feature distributions when the training data are distributed differently.
@@ -12,6 +12,13 @@
 under Distribution Shif](https://cs.nju.edu.cn/liyf/paper/kdd20-record.pdf) (KDD 2020) - Authors: Lan-Zhe Guo, Zhi Zhou, Yu-Feng Li.
 > This paper focuses on the problem that unlabeled data arrives in a data stream and the distribution changes over time. The paper proposed an influence function based example selection strategy that can maintain examples that are most helpful for current and future distribution.
 
+## Robust SSL to Label Distribution MisMatch
+- [Semi-Supervised Learning of Class Balance
+under Class-Prior Change by Distribution Matching](https://icml.cc/Conferences/2012/papers/437.pdf) (ICML 2014) - Authors: Marthinus Christoffel du Plessis, Masashi Sugiyama.
+> This paper proposes to estimate the class ratio in the unlabeled dataset by matching probability distributions of
+labeled and unlabeled input data.
+
+
 
 ## Label Corruptation Robust SSL
 
@@ -24,6 +31,10 @@ under Distribution Shif](https://cs.nju.edu.cn/liyf/paper/kdd20-record.pdf) (KDD
 - [Unified Robust Semi-Supervised Variational Autoencoder](http://proceedings.mlr.press/v139/chen21a/chen21a.pdf) (ICML 2021) - Authors: Xu Chen
 > This paper propose a noise-robust semi-supervised deep generative model by jointly tackling noisy labels and outliers simultaneously in a unified robust semi-supervised variational autoencoder
 
+-[Semi-supervised Learning from Crowds Using Deep Generative Models](https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/67695/1/aaai2018.pdf) (AAAI 2018) - Authors: Atarashi, Kyohei; Oyama, Satoshi; Kurihara, Masahito. 
+> This paper assumes the data labeled are obtained by crowdsourcing.
+
+-[Boosting Semi-Supervised Face Recognition with Noise Robustness](https://arxiv.org/abs/2105.04431)
 ## Feature Corruptation Robust SSL
 
 - [Robustness to Adversarial Perturbations in Learning from Incomplete Data](https://proceedings.neurips.cc/paper/2019/file/60ad83801910ec976590f69f638e0d6d-Paper.pdf) (NeurIPS 2019) - Authors: Amir Najaf, Shin-ichi Maeda, Masanori Koyama, Takeru Miyato
