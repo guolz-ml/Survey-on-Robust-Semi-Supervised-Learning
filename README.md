@@ -50,6 +50,9 @@ labeled and unlabeled input data.
 > This paper proposes a deep hidden backdoor (DeHiB) attack for SSL-based systems. In contrast to the conventional
 attacking methods, the DeHiB can feed malicious unlabeled training data to the semi-supervised learner so as to enable the SSL model to output premeditated results.
 
+-[Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9551983)
+
+
 -[Tangent-Normal Adversarial Regularization for Semi-supervised Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Tangent-Normal_Adversarial_Regularization_for_Semi-Supervised_Learning_CVPR_2019_paper.pdf) (CVPR 2019) - Authors: Bing Yu, Jingfeng Wu, Jinwen Ma, Zhanxing Zhu
 > This paper proposes a new regularization technique for semi-supervised learning than can improve the robustness of SSL to noisy features.
 
