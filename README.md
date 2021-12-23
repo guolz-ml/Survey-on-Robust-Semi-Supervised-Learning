@@ -30,7 +30,7 @@ labeled and unlabeled input data.
 > This paper presents a noise-robust graph-based semi-supervised learning algorithm by using sparse encoding to deal with the problem of semi-supervised learning with noisy initial labels.
 - [Unified Robust Semi-Supervised Variational Autoencoder](http://proceedings.mlr.press/v139/chen21a/chen21a.pdf) (ICML 2021) - Authors: Xu Chen
 > This paper propose a noise-robust semi-supervised deep generative model by jointly tackling noisy labels and outliers simultaneously in a unified robust semi-supervised variational autoencoder
-
+-[https://arxiv.org/abs/2002.07394](https://arxiv.org/abs/2002.07394)
 -[Semi-supervised Learning from Crowds Using Deep Generative Models](https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/67695/1/aaai2018.pdf) (AAAI 2018) - Authors: Atarashi, Kyohei; Oyama, Satoshi; Kurihara, Masahito. 
 > This paper assumes the data labeled are obtained by crowdsourcing.
 
